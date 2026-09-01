@@ -2,8 +2,8 @@
 
 <p style="font-size: 24;"><b>Halo semuanya, perkenalkan nama saya Liyenvan Marsada Siregar</b></p>
 <br>
-<p align="center">
-<img src="https://media.discordapp.net/attachments/1058617166125072425/1544193840523645018/Untitled72_1.png?ex=6a979e15&is=6a964c95&hm=7004dbb3e5a51dacad6d1243733ce0a4275a945976a8c4dcf3f7dc7797d0d1ae&=&format=webp&quality=lossless&width=480&height=640" alt="Profile card" width="200"/>
+<p style="float: right">
+        <img src="https://media.discordapp.net/attachments/1058617166125072425/1544193840523645018/Untitled72_1.png?ex=6a979e15&is=6a964c95&hm=7004dbb3e5a51dacad6d1243733ce0a4275a945976a8c4dcf3f7dc7797d0d1ae&=&format=webp&quality=lossless&width=480&height=640" alt="Profile card" width="150"/>
 </p>
 <br>
 <p style="font-size: 16;">
